@@ -1,4 +1,4 @@
-DL Project Techniques Summary
+Hand Writing Project Techniques Summary
 1. Dataset Preprocessing
 
 1.1 Vertical Patch Splitting (Image Tripling)
